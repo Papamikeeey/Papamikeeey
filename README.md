@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Papamikeeey
+- 👋 Hi, I’m Michael Indeku 
 - 👀 I’m interested in Programming, Development and finding the coalescence between the two to create amazing stuff
 - 🌱 I’m currently learning Rust and Python as programming languages; Computer science on a macro level to understand it all; And Blockchain and its developments thus far; Looking to add some AI into the mix as well
 - 💞️ I’m looking to collaborate on Any project/gig that is available and I could learn some more while contributing to it
